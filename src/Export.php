@@ -6,7 +6,7 @@
  * Time: 下午6:28
  */
 
-namespace FromChinaBoy\Export;
+namespace zzhpeng\Export;
 
 class Export
 {
